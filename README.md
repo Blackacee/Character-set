@@ -4,7 +4,7 @@
 <title>Meta Tags Example</title>
 <meta name="keywords" content="HTML, Meta Tags, Metadata" />
 <meta name="description" content="Learning about Meta Tags." />
-<meta ame="author" content="Mahnaz Mohtashim" />
+<meta ame="author" content="Carl Newport" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
