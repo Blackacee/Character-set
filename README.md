@@ -1,2 +1,13 @@
-# Character-set
-HTML code for meta tag 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Meta Tags Example</title>
+<meta name="keywords" content="HTML, Meta Tags, Metadata" />
+<meta name="description" content="Learning about Meta Tags." />
+<meta ame="author" content="Carl Newport" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<p>Hello HTML5!</p>
+</body>
+</html>
